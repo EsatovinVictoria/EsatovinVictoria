@@ -138,6 +138,10 @@ The system provides public laboratory information and an administrative CMS for 
   <img src="https://img.shields.io/badge/GitHub-EsatovinVictoria-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.instagram.com/eastvinv/">
+  <img src="https://img.shields.io/badge/Instagram-@eastvinv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
