@@ -2,11 +2,10 @@
 
 # Hi, I'm Esatovin Victoria 👋
 
-### Informatics Engineering Student | Web & Mobile Developer | Machine Learning Enthusiast
+### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
 <p>
-  Passionate about building useful applications, exploring new technologies,<br>
-  and turning ideas into real-world projects.
+  Curiosity always kills me...😫
 </p>
 
 <p>
@@ -24,7 +23,7 @@
 I'm an **Informatics Engineering student at Politeknik Negeri Malang** with an interest in software development, mobile applications, and artificial intelligence.
 
 * 🎓 Studying **Informatics Engineering**
-* 💻 Interested in **Web & Mobile Development**
+* 💻 Interested in **Web Development**
 * 📱 Currently exploring **Flutter & Mobile App Development**
 * 🤖 Learning **Machine Learning & Computer Vision**
 * 🧠 Interested in applying AI to solve real-world problems
@@ -61,20 +60,6 @@ I'm an **Informatics Engineering student at Politeknik Negeri Malang** with an i
 ---
 
 ## 🚀 Featured Projects
-
-### 🍅 LeafItToMe
-
-**Tomato Leaf Disease Detection Mobile Application**
-
-A mobile application designed to identify tomato leaf diseases using **Machine Learning and Computer Vision**.
-
-The application allows users to capture or upload tomato leaf images and receive disease classification results along with confidence scores and initial treatment recommendations.
-
-**Tech Stack**
-
-`Flutter` • `TensorFlow Lite` • `Computer Vision` • `Machine Learning`
-
----
 
 ### 🏥 Poliklinik Reservation System
 
@@ -153,14 +138,18 @@ The system provides public laboratory information and an administrative CMS for 
   <img src="https://img.shields.io/badge/GitHub-EsatovinVictoria-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.instagram.com/eastvinv/">
+  <img src="https://img.shields.io/badge/Instagram-@eastvinv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### 💡 Code. Learn. Build. Repeat.
+### 💡 Obsession Beats Talent.
 
-<sub>Thanks for visiting my GitHub profile ✨</sub>
+<sub>Come Back Anytime!✨</sub>
 
 </div>
