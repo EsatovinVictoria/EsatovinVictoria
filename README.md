@@ -107,16 +107,6 @@ The system provides public laboratory information and an administrative CMS for 
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/EsatovinVictoria/EsatovinVictoria/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 
 <p align="center">
