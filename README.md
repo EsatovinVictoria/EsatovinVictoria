@@ -85,18 +85,6 @@ The system provides public laboratory information and an administrative CMS for 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EsatovinVictoria&show_icons=true&hide_border=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsatovinVictoria&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
