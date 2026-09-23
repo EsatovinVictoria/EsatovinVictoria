@@ -5,7 +5,7 @@
 ### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
 <p>
-  Curiosity always kills me...😫
+  I love me some Lo-fi actions💆‍♂️
 </p>
 
 <p>
