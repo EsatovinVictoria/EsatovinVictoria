@@ -120,8 +120,8 @@ The system provides public laboratory information and an administrative CMS for 
   <img src="https://img.shields.io/badge/Instagram-@eastvinv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/esatovin-victoria/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/esatovin-victoria/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Esatovin%20Ebenhaezer%20Victoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
