@@ -5,7 +5,7 @@
 ### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
 <p>
-  I love me some Lo-fi actions💆‍♂️
+  It is what it is. We do what we do. Get back to chillin'.🌙
 </p>
 
 <p>
