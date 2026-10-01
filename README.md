@@ -1,7 +1,6 @@
 <div align="center">
 
-# Aloha! What's good, Big Dawg?
-# I'm Esatovin Victoria👋
+# What's good, Big Dawg? I'm Esatovin Victoria👋
 
 ### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
@@ -106,15 +105,23 @@ The system provides public laboratory information and an administrative CMS for 
 <div align="center">
 
 <a href="https://github.com/EsatovinVictoria">
-  <img src="https://img.shields.io/badge/GitHub-EsatovinVictoria-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-EsatovinVictoria-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/eastvinv/">
-  <img src="https://img.shields.io/badge/Instagram-@eastvinv-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-@eastvinv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/esatovin-victoria/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Esatovin%20Victoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/esatovin-victoria/">
+  <img src="https://img.shields.io/badge/LinkedIn-Esatovin_Victoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users/566771506055479338">
+  <img src="https://img.shields.io/badge/Discord-esatovinchosenbygod-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+<a href="https://orcid.org/0009-0005-6923-5638">
+  <img src="https://img.shields.io/badge/ORCID-Esatovin Victoria-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
 </div>
