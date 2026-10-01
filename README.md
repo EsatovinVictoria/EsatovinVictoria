@@ -6,12 +6,6 @@
 
 #### It is what it is. We do what we do. Get back to chillin'.🌙
 
-<p>
-  <a href="https://github.com/EsatovinVictoria">
-    <img src="https://komarev.com/ghpvc/?username=EsatovinVictoria&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-  </a>
-</p>
-
 </div>
 
 ---
