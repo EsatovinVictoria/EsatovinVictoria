@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi, I'm Esatovin Victoria 👋
+# Aloha! What's good, Big Dawg?
+# I'm Esatovin Victoria👋
 
 ### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
