@@ -4,9 +4,7 @@
 
 ### Informatics Engineering Student | Web Developer | Machine Learning Enthusiast | Back-end Enthusiasts 
 
-<p>
-  It is what it is. We do what we do. Get back to chillin'.🌙
-</p>
+#### It is what it is. We do what we do. Get back to chillin'.🌙
 
 <p>
   <a href="https://github.com/EsatovinVictoria">
@@ -121,7 +119,7 @@ The system provides public laboratory information and an administrative CMS for 
 </a>
 
 <a href="https://www.linkedin.com/in/esatovin-victoria/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Esatovin%20Victoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Esatovin%20Victoria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
