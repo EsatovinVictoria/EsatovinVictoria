@@ -81,7 +81,7 @@ The system provides public laboratory information and an administrative CMS for 
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EsatovinVictoria&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=EsatovinVictoria&theme=tokyonight&hide_border=true&timezone=Asia%2FJakarta" alt="GitHub Streak Stats" />
 
 </div>
 
