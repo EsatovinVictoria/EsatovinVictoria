@@ -87,16 +87,30 @@ The system provides public laboratory information and an administrative CMS for 
 
 ---
 
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EsatovinVictoria/EsatovinVictoria/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EsatovinVictoria/EsatovinVictoria/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/EsatovinVictoria/EsatovinVictoria/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🌱 Currently Learning
 
-<p align="center">
+<div align="center">
 
-![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-Web%20Development-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Machine%20Learning-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
+<img src="https://img.shields.io/badge/Laravel-Web%20Development-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 
-</p>
+</div>
 
 ---
 
