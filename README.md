@@ -138,6 +138,10 @@ The system provides public laboratory information and an administrative CMS for 
   <img src="https://img.shields.io/badge/ORCID-Esatovin Victoria-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
 </a>
 
+<a href="https://www.kaggle.com/esatovin">
+  <img src="https://img.shields.io/badge/Kaggle-esatovin-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 </div>
 
 ---
